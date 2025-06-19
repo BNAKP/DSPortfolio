@@ -1,4 +1,4 @@
-# Principal Component Analysis Project
+# Principal Component Analysis
 
 ## Project Overview
 Principal Component Analysis - Using PCA techniques for noise reduction and to remove background signals so an effective algorithm could be used to counteract sample drift effects from an Electron Microscopes measurement of the chemical composition of thermoelectrics
