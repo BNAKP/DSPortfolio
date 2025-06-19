@@ -4,7 +4,7 @@
 This is a repository i created to keep all my personal and professional data science projects in.
 
 ### Table of Contents
-1. [Causality](https://github.com/BNAKP/DSPortfolio/tree/main/Causality) - Using correlation to determine the causal inference between variable in the UN SDGs
+1. [Causality](https://github.com/BNAKP/DSPortfolio/tree/main/Causality) - Using correlation to determine the causal inference between variables in the UN SDGs
 2. [Principal Component Analysis] - using PCA techniques for noise reduction and to remove background signals so an effective algorithm could be used to counteract sample drift effects
 3. KPI Forecasting - Using time series analysis to predict subscriber growth on DTC streaming service
 4. Audience Insights - Using Clustering & Classification to identify key audience viewing trends to target high risk churn groups for CRM campaigns
