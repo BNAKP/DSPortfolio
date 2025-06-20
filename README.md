@@ -10,3 +10,6 @@ This is a repository i created to keep all my personal and professional data sci
 4. Audience Insights - Using Clustering & Classification to identify key audience viewing trends to target high risk churn groups for CRM campaigns
 5. Marketing Spend Analysis - Using regression to model relationship between marketing spend and impressions or sign-ups to the target platform
 6. Identify Growth Opportunities - Using bayesian modelling to determine the existing markets to focus on for potential future growth
+
+### Additional Practice Projects
+1. [House Price Prediction] - Using linear regression and random forest to predict house prices
