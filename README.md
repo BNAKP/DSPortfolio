@@ -1,7 +1,7 @@
 # Data Science Project Portfolio
 
 ## About
-This is a repository i created to keep all my personal and professional data science projects in.
+This is a repository i created to showcase all my personal and professional data science projects.
 
 ### Professional and Academic Projects [Completed]
 1. [Causality](https://github.com/BNAKP/DSPortfolio/tree/main/Causality) - Using spearman correlation, eigenvector centrality and community detection to determine the causal inference between variables in the UN SDGs.
