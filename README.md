@@ -12,4 +12,4 @@ This is a repository i created to keep all my personal and professional data sci
 6. Identify Growth Opportunities - Using bayesian modelling to determine the existing markets to focus on for potential future growth
 
 ### Additional Practice Projects
-1. [House Price Prediction] - Using linear regression and random forest to predict house prices
+1. [House Price Prediction](https://github.com/BNAKP/DS_Portfolio/tree/main/Practice%20Projects/House%20Price%20Prediction) - Using linear regression and random forest to predict house prices
