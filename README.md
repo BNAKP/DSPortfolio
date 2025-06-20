@@ -8,7 +8,7 @@ This is a repository i created to keep all my personal and professional data sci
 2. [Principal Component Analysis](https://github.com/BNAKP/DSPortfolio/tree/main/Principal%20Component%20Analysis) - Using PCA techniques for noise reduction and to remove background signals so an effective algorithm could be used to counteract sample drift effects from an Electron Microscopes measurement of the chemical composition of thermoelectrics.
 3. [Revenue Forecasting with Linear Regression] - Using linear regression to set film forecasts based on Box Office, Genre and window to digital release.
 4. [Growth Forecasting] - Using time series analysis to predict subscriber growth on DTC streaming service
-5. [Audience Segmentation] - Using Clustering & Classification to identify key audience viewing trends to target high risk churn groups for CRM campaigns
+5. [Audience Segmentation](https://github.com/BNAKP/DS_Portfolio/tree/main/Audience%20Segmentation) - Using Clustering & Classification to identify key audience viewing trends to target high risk churn groups for CRM campaigns
 6. [Marketing Ad Spend Analysis] - Using regression to model relationship between marketing spend and impressions or sign-ups to the target platform
 7. [Identify Growth Opportunities] - Using bayesian modelling to determine the existing markets to focus on for potential future growth
 
