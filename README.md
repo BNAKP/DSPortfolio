@@ -11,7 +11,9 @@ This is a repository i created to showcase all my personal and professional data
 5. [Audience Segmentation](https://github.com/BNAKP/DS_Portfolio/tree/main/Audience%20Segmentation) - Using Clustering & Classification to identify key audience viewing trends to target high risk churn groups for CRM campaigns
 
 ### Professional Projects [Ongoing]
-1. [Marketing Ad Spend Analysis] - Using regression to model the relationship between marketing spend, impressions and sign-ups to the target platform.
+1. [Marketing Ad Spend Analysis] - Using regression to model the relationship between marketing spend, impressions/reach, CTR and conversion/acquisition to optimise ad spend on the social media platforms.
 2. [Identify Growth Opportunities] - Using bayesian modelling to determine the existing or new markets to focus on for potential future growth
+3. 
+
 ### Additional Personal Projects
 1. [House Price Prediction](https://github.com/BNAKP/DS_Portfolio/tree/main/Practice%20Projects/House%20Price%20Prediction) - Using linear regression and random forest to predict house prices
