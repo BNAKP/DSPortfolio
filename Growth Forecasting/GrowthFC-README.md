@@ -1,7 +1,7 @@
-# Audience Segmentation
+# DTC Growth Forecasting
 
 ## Project Overview
-Audience Segmentation - Using Clustering & Classification to evaluate key audience viewing trends to identify high risk churn groups to target with CRM campaigns.
+DTC Growth Forecasting - Using time series analysis (SARIMA) to forecast subscriber growth trends on DTC streaming service.
 
 ### Problem
 
