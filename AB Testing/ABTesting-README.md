@@ -1,7 +1,7 @@
-# Audience Segmentation
+# A/B Testing
 
 ## Project Overview
-Audience Segmentation - Using Clustering & Classification to evaluate key audience viewing trends to identify high risk churn groups to target with CRM campaigns.
+A/B Testing - Using bayesian A/B testing to measure the impact of pricing and windowing changes in driving revenue growth.
 
 ### Problem
 
