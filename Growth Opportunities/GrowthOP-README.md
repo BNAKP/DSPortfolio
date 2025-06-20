@@ -1,13 +1,13 @@
-# Audience Segmentation
+# Identify Growth Opportunities
 
 ## Project Overview
-Audience Segmentation - Using Clustering & Classification to evaluate key audience viewing trends to identify high risk churn groups to target with CRM campaigns.
+Using k-means clustering to group territories and then a random forest regressor to evaluate which social and economic features impact digital spend the most to select markets to focus growth efforts on.
 
 ### Problem
 
 ### Methodology
 
-### Code
+### Code & Data
 
 ### Results
 
