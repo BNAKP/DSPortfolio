@@ -7,7 +7,7 @@ This is a repository i created to showcase all my personal and professional data
 1. [Causality](https://github.com/BNAKP/DSPortfolio/tree/main/Causality) - Using spearman correlation, eigenvector centrality and community detection to determine the causal inference between variables in the UN SDGs.
 2. [Principal Component Analysis](https://github.com/BNAKP/DSPortfolio/tree/main/Principal%20Component%20Analysis) - Using PCA techniques for noise reduction and to remove background signals so an effective algorithm could be used to counteract sample drift effects from an Electron Microscopes measurement of the chemical composition of thermoelectrics.
 3. [Revenue Forecasting](https://github.com/BNAKP/DS_Portfolio/tree/main/Revenue%20Forecasting) - Using linear regression to set film forecasts based on Box Office, Genre and window to digital release.
-4. [DTC Growth Forecasting](https://github.com/BNAKP/DS_Portfolio/tree/main/Growth%20Forecasting) - Using time series analysis to forecast subscriber growth trends on DTC streaming service.
+4. [DTC Growth Forecasting](https://github.com/BNAKP/DS_Portfolio/tree/main/Growth%20Forecasting) - Using time series analysis (SARIMA) to forecast subscriber growth trends on DTC streaming service.
 5. [Audience Segmentation](https://github.com/BNAKP/DS_Portfolio/tree/main/Audience%20Segmentation) - Using Clustering & Classification to evaluate key audience viewing trends to identify high risk churn groups to target with CRM campaigns.
 
 ### Professional Projects [Ongoing]
