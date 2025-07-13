@@ -24,6 +24,6 @@ Key code modules included:
 Additional modules explored betweenness centrality and temporal changes in centrality but were excluded due to data limitations.
 
 
-### Results
+### Results - What was found
 It is vital to understanding the full network of interactions among SDG indicators to assess a country’s progress. By using network visualisation and eigenvector centrality, the study identified key indicators that reflect overall trends, showing that top indicators span multiple SDGs and cannot be confined to a single goal. Community detection revealed that UN classifications do not always align with statistical groupings, suggesting hidden structures in the data. The delayed correlation method provided a basic but useful insight into directional influence, showing that top indicators often act as “informational sinks” influenced by many others. This makes them valuable for tracking national progress, even if they are not the best levers for initiating change. Understanding both synergies and trade-offs is essential, as neglecting poorly performing indicators could have widespread negative effects
 
