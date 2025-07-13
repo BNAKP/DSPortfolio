@@ -39,7 +39,7 @@ Visualisation and Validation:
 - Developed tools to visualise alignment quality, spectral clarity, and 3D elemental distributions.
 - Compared results with Bruker software to validate accuracy and highlight areas where the custom method offered improved insight (e.g. detection of metal oxides).
 
-[This code is University property and so i am unable to provide the raw data or code]
+[This code is University property and so i am unable to provide the raw data or code in this repository]
 
 ### Result – What I Found
 This project successfully produced an algorithm capable of aligning, denoising, and quantifying SEM and EDS data with high accuracy. Visual inspection confirmed the effectiveness of the alignment, and the noise reduction significantly improved spectral clarity. The quantification results closely matched those from Bruker software, with all elemental percentages agreeing within 3%. My method also detected metal oxides and subtle compositional variations that Bruker missed. The 3D visualisation revealed distinct alloy phases and compositional gradients, particularly between milled and unmilled regions. These findings demonstrated that the custom workflow not only matched but in some aspects exceeded the capabilities of existing commercial solutions.
