@@ -51,4 +51,4 @@ The UK market is constantly undergoing changes due to release strategy, retailer
 
 ### Outcomes
 
-The model significantly improved the accuracy of our revenue forecasts. By automating the prediction process, it also reduced the time analysts spent manually estimating outcomes. This approach has since been used to support strategic decisions around release timing and marketing investment.
+The model significantly improved the accuracy of our revenue forecasts. By automating the prediction process, it also reduced the time spent manually estimating outcomes. This approach has since been used to support strategic decisions around release timing and marketing investment allowing us to react quicker when films have a poor theatrical performance.
