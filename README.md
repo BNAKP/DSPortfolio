@@ -11,9 +11,9 @@ This is a repository i created to showcase all my personal and professional data
 5. [Audience Segmentation](https://github.com/BNAKP/DS_Portfolio/tree/main/Audience%20Segmentation) - Using Clustering & Classification to evaluate key audience viewing trends to identify high risk churn groups to target with CRM campaigns.
 
 ### Professional Projects [Ongoing]
-1. [Marketing Optimisation](https://github.com/BNAKP/DS_Portfolio/tree/main/Marketing%20Optimisation) - Using marketing mix modelling to measure the media impact on digital sales to optimise ROI on ad spend, taking into account marketing metrics (spend, impressions etc) while accounting for external factors such as seasonality and macroeconomic trends.
-2. [Identify Growth Opportunities](https://github.com/BNAKP/DS_Portfolio/tree/main/Growth%20Opportunities) - Using k-means clustering to group territories and then a random forest regressor to evaluate which social and economic features impact digital spend the most to select markets to focus growth efforts on.
-3. [A/B Testing](https://github.com/BNAKP/DS_Portfolio/tree/main/AB%20Testing) - Using bayesian A/B testing to measure the impact of pricing and windowing changes in driving revenue growth.
+6. [Marketing Optimisation](https://github.com/BNAKP/DS_Portfolio/tree/main/Marketing%20Optimisation) - Using marketing mix modelling to measure the media impact on digital sales to optimise ROI on ad spend, taking into account marketing metrics (spend, impressions etc) while accounting for external factors such as seasonality and macroeconomic trends.
+7. [Identify Growth Opportunities](https://github.com/BNAKP/DS_Portfolio/tree/main/Growth%20Opportunities) - Using k-means clustering to group territories and then a random forest regressor to evaluate which social and economic features impact digital spend the most to select markets to focus growth efforts on.
+8. [A/B Testing](https://github.com/BNAKP/DS_Portfolio/tree/main/AB%20Testing) - Using bayesian A/B testing to measure the impact of pricing and windowing changes in driving revenue growth.
 
 ### Additional Personal Projects
-1. [House Price Prediction](https://github.com/BNAKP/DS_Portfolio/tree/main/Practice%20Projects/House%20Price%20Prediction) - Using linear regression and random forest to predict house prices
+9. [House Price Prediction](https://github.com/BNAKP/DS_Portfolio/tree/main/Practice%20Projects/House%20Price%20Prediction) - Using linear regression and random forest to predict house prices
