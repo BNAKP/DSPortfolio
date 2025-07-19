@@ -17,7 +17,6 @@ This model serves as a foundational tool for budget planning, performance foreca
 
 To tackle this problem, a time series forecasting approach was used, focusing on:
 
-- Simulating realistic subscriber growth data with embedded seasonality, trend, and noise.
 - Engineering features that reflect marketing activity and temporal patterns.
 - Training a machine learning model (XGBoost) to predict daily changes in subscriber count.
 - Evaluating model performance using industry-standard error metrics.
@@ -32,10 +31,9 @@ This approach ensured the model remained interpretable, scalable, and directly t
 The project was implemented in Python using the following tools and steps:
 
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `xgboost`, `sklearn`
-- **Data Simulation**: Created synthetic daily subscriber data from 2021–2024 with trend, seasonality, and noise.
+- **Data**: Used daily subscriber data from 2021–2024 alongside future marketing spend forecasts.
 - **Feature Engineering**:
   - Calculated `subscribers_diff` (daily change in subscribers).
-  - Derived `marketing` spend as a function of subscriber change.
 - **Model**: 
   - Used `XGBRegressor` to predict `subscribers_diff`.
   - Reconstructed cumulative subscriber forecasts from predicted differences.
