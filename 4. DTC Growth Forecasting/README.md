@@ -34,6 +34,7 @@ The project was implemented in Python using the following tools and steps:
 - **Data**: Used daily subscriber data from 2021–2024 alongside future marketing spend forecasts.
 - **Feature Engineering**:
   - Calculated `subscribers_diff` (daily change in subscribers).
+  - Calculated lags, seasonality, calendar effects, rolling means and std deviations (These were later removed as had no   significant postive impact on models accuracy)
 - **Model**: 
   - Used `XGBRegressor` to predict `subscribers_diff`.
   - Reconstructed cumulative subscriber forecasts from predicted differences.
