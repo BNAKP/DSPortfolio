@@ -8,7 +8,7 @@ This is a repository created to showcase my personal and professional data scien
 2. [Principal Component Analysis](https://github.com/BNAKP/DSPortfolio/tree/main/2.%20Principal%20Component%20Analysis) - Using PCA techniques for noise reduction and to remove background signals so an effective algorithm could be used to counteract sample drift effects from an Electron Microscopes measurement of the chemical composition of thermoelectrics.
 3. [Revenue Forecasting](https://github.com/BNAKP/DS_Portfolio/tree/main/3.%20Revenue%20Forecasting) - Using logistic regression to forecast digital revenue based on Box Office, Genre and window to digital release.
 4. [DTC Growth Forecasting](https://github.com/BNAKP/DS_Portfolio/tree/main/4.%20DTC%20Growth%20Forecasting) - Using XGBoost to model subscriber growth trends on DTC streaming service and how they are impacted by marketing spend.
-5. [DTC Audience Segmentation](https://github.com/BNAKP/DS_Portfolio/tree/main/5.%20DTC%20Churn%20&%20CLV%20Modelling) - Using Clustering & Classification to evaluate key audience behaviour trends to categorise customers by CLV groups and identify highest churn risk users to target with CRM campaigns.
+5. [DTC Churn & CLV Modelling](https://github.com/BNAKP/DS_Portfolio/tree/main/5.%20DTC%20Churn%20&%20CLV%20Modelling) - Using Clustering & Classification to evaluate key audience behaviour trends to categorise customers by CLV groups and identify highest churn risk users to target with CRM campaigns.
 
 ### Professional Projects [Ongoing]
 6. [A/B Testing](https://github.com/BNAKP/DS_Portfolio/tree/main/6.%20A-B%20Testing) - Using bayesian A/B testing to measure the impact of pricing and windowing changes in driving revenue growth.
