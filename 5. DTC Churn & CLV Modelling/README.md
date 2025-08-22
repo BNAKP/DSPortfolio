@@ -35,8 +35,8 @@ Data: Included features such as:
 - churn: Binary indicator (1 = churned, 0 = active)
 
 🔍 **Model Selection Rationale**
-- XGBoost Classifier - Churn prediction	Handles non-linear relationships, robust to feature interactions, and performs well on imbalanced datasets.
-- Cox Proportional Hazards -	Survival modeling	Estimates time-to-churn while accounting for censored data (active users). Provides interpretable hazard ratios and survival curves.
+- XGBoost Classifier (Churn prediction) -	Handles non-linear relationships, robust to feature interactions, and performs well on imbalanced datasets.
+- Cox Proportional Hazards (Survival modelling) -	Estimates time-to-churn while accounting for active users. Provides interpretable hazard ratios and survival curves.
 
 ## 4. CLV Calculation
 CLV was calculated as the sum of historical and expected future value:
