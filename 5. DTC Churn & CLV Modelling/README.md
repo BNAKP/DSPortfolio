@@ -41,7 +41,7 @@ Data: Included features such as:
 ## 4. CLV Calculation
 CLV was calculated as the sum of historical and expected future value:
 
-CLV=(Monthly Spend×Tenure)+(Monthly Spend×Expected Remaining Tenure)
+CLV = (Monthly Spend × Tenure) + (Monthly Spend × Expected Remaining Tenure)
 
 - Historical Value: Revenue already earned from the user.
 - Expected Remaining Tenure: Estimated using the area under the survival curve from the Cox model.
